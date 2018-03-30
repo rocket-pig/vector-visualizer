@@ -6,6 +6,9 @@ Visualize / explore word2vec datasets with pygame
 
 _"Surf" through word-relatedness in wide-eyed amazement!_  
 _Astonish your friends, scare your neighbors, earn the respect of your spouse!_
+## Intro
+"Word2vec takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space. Word vectors are positioned in the vector space such that words that share common contexts in the corpus are located in close proximity to one another in the space."  ...*Wow*, right? I was already downloading the .vec file before I understood how I could use it. I wanted to *see* 300 dimensions, and there wasn't really any way to do that, so I began writing this. I know it doesn't even scratch the surface of ***300-D***, but hey, us mere mortals *aren't ready for the truth* 
+
 
 ## Getting started
 You'll need gensim, pygame installed and of course a dataset. If you're already there, simply:  
