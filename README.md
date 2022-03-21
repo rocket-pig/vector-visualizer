@@ -27,6 +27,7 @@ the one shown above is the wikipedia word vector dataset: (104MB download, 280MB
 [wiki.simple.vec.zip](https://darknesseverytime.live/mirror/wiki.simple.vec.zip)  
 or mirror [wiki.simple.vec.zip](https://drive.google.com/uc?id=1u79f3d2PkmePzyKgubkbxOjeaZCJgCrt&export=download)  
 ...you're of course free to plug any .vec file into this. If you use other ones, I'd love to see/hear about the results!
+EDIT: years have passed and both those links are gone.  Here they are these days: [link](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/)
 
 ## Installing gensim:
 `pip install -U gensim`\
